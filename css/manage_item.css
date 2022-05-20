@@ -1,0 +1,32 @@
+.working-section .data-section .data-view
+{
+	margin-left: 90px;
+	height: 550px;
+}
+.working-section .data-section .data-view .action-button-section
+{
+	height: 30px;
+	text-decoration: bold;
+}
+.working-section .data-section .data-view table 
+{
+	margin-top: 20px;
+	width: 600px;
+	text-align: center;
+}
+.working-section .data-section .data-view table th 
+{
+	height: 40px;
+	font-size: 30px;
+}
+.working-section .data-section .data-view table td 
+{
+	height: 30px;
+	font-size: 20px;
+}
+.working-section .data-section .data-view table td button
+{
+	height: 30px;
+	width: 50px;
+	border: none;
+}

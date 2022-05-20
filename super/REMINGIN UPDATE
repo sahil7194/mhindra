@@ -1,0 +1,6 @@
+
+UPDATE `item` SET `UOM`='NOS' WHERE `ItemName`='Submersible Pump 7.5hp 70M with SPD N CB';
+UPDATE `item` SET `UOM`='' WHERE `ItemName`='Module mounting structure for pump - 22M';
+UPDATE `item` SET `UOM`='' WHERE `ItemName`='Bottom adaptor SS304';
+UPDATE `item` SET `UOM`='' WHERE `ItemName`='Branch Connector';
+UPDATE `item` SET `UOM`='' WHERE `ItemName`='HDPE PIPE PE 100';

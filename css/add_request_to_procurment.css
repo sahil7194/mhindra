@@ -1,0 +1,92 @@
+.working-section 
+{
+	height: 790px;
+}
+.controle-section
+{
+	height: 790px;
+}
+.form-section
+{
+	height: 400px;
+	margin-left: 90px;
+	margin-right: 20px;
+}
+.form-section table
+{
+	line-height: 39px;
+	margin-top: 20px;
+}
+.form-title
+{
+	height: 60px;
+	margin-left: 90px;
+	font-size: 40px;
+	font-weight: bold; 
+}
+.field-label
+{
+	font-size: 28px;
+	margin-right: 20px;
+}
+select
+{
+	height: 30px;
+	width: 250px;
+	font-size: 20px;
+	margin-left: 20px;
+}
+textarea
+{
+	resize: none;
+	height: 90px;
+	width: 250px;
+	margin-left: 20px;
+	font-size: 30px;
+}
+input[type='text'] , input[type='number']
+{
+	height: 30px;
+	font-size: 20px;
+	margin-left: 20px;
+}
+input[type='reset']
+{
+	height: 40px;
+	width: 100px;
+	margin-top: 27px;
+	font-size: 30px;
+	border: none;
+	background-color: #e11d1db5;
+	margin-left: 150px;
+	margin-right: 40px;
+}
+input[type='reset']:hover
+{
+	height: 40px;
+	width: 100px;
+	margin-top: 27px;
+	font-size: 30px;
+	border: none;
+	background-color: #e70a0ad4;
+	margin-left: 150px;
+	margin-right: 40px;
+}
+input[type='submit']
+{
+	height: 40px;
+	width: 100px;
+	margin-top: 27px;
+	font-size: 30px;
+	border: none;
+	background-color: #18d418;
+}
+input[type='submit']:hover
+{
+	height: 40px;
+	width: 100px;
+	margin-top: 27px;
+	font-size: 30px;
+	border: none;
+	background-color: #089408;
+}

@@ -1,0 +1,22 @@
+.working-section .data-section .data-view 
+{
+	margin-left: 90px;
+	overflow: auto;
+}
+.working-section .data-section .data-view table
+{
+	margin-top: 5px;
+	text-align: center;
+}
+.working-section .data-section .data-view table th
+{
+	font-size: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.working-section .data-section .data-view .action-button-section
+{
+	margin-top:20px;
+	height: 50px;
+	margin-left: 90px;
+}

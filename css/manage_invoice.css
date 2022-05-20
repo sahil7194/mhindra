@@ -1,0 +1,46 @@
+.working-section .data-section .data-view
+{
+	margin-left: 90px;
+	height: 200px;
+	overflow: auto;
+}
+.working-section .data-section .data-view .action-button-section
+{
+	height: 30px;
+	text-decoration: bold;
+}
+.working-section .data-section .data-view .Filter
+{
+	height: 80px;
+}
+.working-section .data-section .data-view .Filter table
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 350px;
+}
+.working-section .data-section .data-view .Filter table button
+{
+	width: 80px;
+}
+.working-section .data-section .data-view table 
+{
+	width: 1500px;
+	text-align: center;
+}
+.working-section .data-section .data-view table th 
+{
+	height: 30px;
+	font-size: 20px;
+}
+.working-section .data-section .data-view table td 
+{
+	height: 20px;
+	font-size: 15px;
+}
+.working-section .data-section .data-view table td button
+{
+	height: 30px;
+	width: 50px;
+	border: none;
+}

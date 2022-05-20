@@ -1,0 +1,76 @@
+.controle-section
+{
+	height: 860px;
+}
+.working-section
+{
+	height: 860px;
+}
+
+.working-section .data-section .form-section
+{
+	margin-left: 80px;
+	line-height: 40px;
+}
+.working-section .data-section .form-section h1	
+{
+	font-size: 45px;
+}
+.working-section .data-section .form-section .fild-title 
+{
+	font-size: 25px;
+}
+.working-section .data-section .form-section input[type='text']
+{
+	height: 30px;
+	width: 250px;
+	margin-left: 26px;
+	font-size: 20px;
+}
+.working-section .data-section .form-section select
+{
+	height: 30px;
+	width: 250px;
+	margin-left: 26px;
+	font-size: 20px;
+}
+.working-section .data-section .form-section input[type='reset']
+{
+	height: 50px;
+	width: 100px;
+	margin-top: 27px;
+	font-size: 30px;
+	border: none;
+	background-color: #e11d1db5;
+	margin-left: 150px;
+	margin-right: 40px;
+}
+.working-section .data-section .form-section input[type='reset']:hover
+{
+	height: 50px;
+	width: 100px;
+	margin-top: 27px;
+	font-size: 30px;
+	border: none;
+	background-color: #e70a0ad4;
+	margin-left: 150px;
+	margin-right: 40px;
+}
+.working-section .data-section .form-section input[type='submit']
+{
+	height: 50px;
+	width: 100px;
+	margin-top: 27px;
+	font-size: 30px;
+	border: none;
+	background-color: #18d418;
+}
+.working-section .data-section .form-section input[type='submit']:hover
+{
+	height: 50px;
+	width: 100px;
+	margin-top: 27px;
+	font-size: 30px;
+	border: none;
+	background-color: #089408;
+}

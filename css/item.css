@@ -1,0 +1,75 @@
+.form-section
+{
+	height: 500px;
+	width: 1000px;
+	margin-left: 90px;
+}
+.form-section .form-title
+{
+	margin-left: 20px; 
+	font-size: 43px;
+}
+.form-section table
+{
+	margin-top: 15px;
+	line-height: 50px;
+}
+.form-section table .field-title
+{
+	font-size: 25px;
+}
+.form-section table input[type='text']
+{
+	margin-left: 20px;
+	height: 30px;
+	width: 210px;
+	font-size: 25px;
+}
+.form-section table textarea
+{
+	margin-left: 20px;
+	resize: none;
+	height: 110px;
+	width: 210px;
+	font-size: 25px;
+}
+.form-section input[type='reset']
+{
+	height: 40px;
+	width: 100px;
+	margin-top: 17px;
+	font-size: 30px;
+	border: none;
+	background-color: #e11d1db5;
+	margin-left: 50px;
+	margin-right: 40px;
+}
+.form-section input[type='reset']:hover
+{
+	height: 40px;
+	width: 100px;
+	margin-top: 17px;
+	font-size: 30px;
+	border: none;
+	background-color: #e70a0ad4;
+	margin-left: 50px;
+	margin-right: 40px;
+}
+.form-section input[type='submit']
+{
+	height: 40px;
+	width: 100px;
+	margin-top: 17px;
+	font-size: 30px;
+	border: none;
+	background-color: #18d418;
+}
+.form-section input[type='submit']:hover
+{
+	height: 40px;
+	width: 100px;
+	margin-top: 17px;
+	font-size: 30px;
+	border: none;
+	background-color: #089408;
+}

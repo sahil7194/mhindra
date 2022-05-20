@@ -1,0 +1,18 @@
+.working-section .data-section .stock-view
+{
+	margin-left: 90px;
+}
+.working-section .data-section .stock-view table
+{
+	line-height: 30px;
+	width: 400px;
+}
+.working-section .data-section .stock-view table th
+{
+	border-bottom: 1px solid black;
+	font-size: 25px;
+}
+.working-section .data-section .stock-view table tr td
+{
+	margin-left: 20px;
+}
